@@ -1,0 +1,16 @@
+PODS:
+  - NJMediator_NJTeachersHelerList (0.1.0)
+
+DEPENDENCIES:
+  - NJMediator_NJTeachersHelerList (from `../`)
+
+EXTERNAL SOURCES:
+  NJMediator_NJTeachersHelerList:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  NJMediator_NJTeachersHelerList: 36326ad0c6db7d1e43eea9ce1406c8185fe70986
+
+PODFILE CHECKSUM: 377a66c1470c8e6af272c3421065860876537a68
+
+COCOAPODS: 1.5.3
